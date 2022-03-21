@@ -25,3 +25,6 @@ Created by christopher Pietrangeli
 
 ## Screenshots
 <img src="./public/images/landing-page.png" />
+
+
+<img src="./public/images/notes.png" />
